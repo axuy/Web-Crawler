@@ -1,2 +1,2 @@
 # Web-Crawler
-standard web crawler
+Standard web crawler
